@@ -1,0 +1,23 @@
+.prime-video-main-container {
+  background-color: #000000;
+  background-size: cover;
+}
+.prime-video-banner {
+  height: 25vh;
+  width: 100%;
+}
+.videos-container {
+  width: 90vw;
+  padding-bottom: 12px;
+  padding-left: 30px;
+}
+.movie-category-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin: 5px;
+}
+.slider-container {
+  padding: 10px;
+  background-color: inherit;
+  text-align: center;
+}
